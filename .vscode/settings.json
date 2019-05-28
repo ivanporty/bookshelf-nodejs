@@ -1,6 +1,7 @@
 {
     "cloudcode.profile-cluster-map": {
-        "dev": "gke_bookshelf-ta_europe-west3-a_bookshelf"
+        "dev": "gke_bookshelf-ta_europe-west3-a_bookshelf",
+        "qa": "gke_bookshelf-ta_europe-west3-a_bookshelf"
     },
     "cloudcode.image-registry": {
         "name": "gcr.io/bookshelf-ta"
